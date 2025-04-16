@@ -13,5 +13,5 @@ response = client.models.generate_content(
     contents="Explain how AI works",
 )
 
-print(response.text)
+# print(response.text)
 
